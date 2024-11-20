@@ -19,7 +19,7 @@ if not os.environ.get('AZURE_OPENAI_ENDPOINT'):
 
 def add_text_if_not_exists(text, metadata, db):
   docs = db.similarity_search(text, k=1)
-  if docs[0].page_content == text:
+  if len(docs) > 0 and docs[0].page_content == text:
     print("Text already exists in the database, first 50 characters:", text[:50].replace('\n', '\\n'))
     return False
   db.add_texts([text], [metadata])

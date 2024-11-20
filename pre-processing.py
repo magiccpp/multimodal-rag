@@ -105,7 +105,8 @@ def main():
 
           for item in images+tables:
             if item.get('ref'):
-              content = content.replace(item.get('ref'), f"![{item.get('ref')}]({item.get('img_path')})")
+              desc = f"{item.get('ref')} {item.get('description')}".strip()
+              content = content.replace(item.get('ref'), f"![{desc}]({item.get('img_path')})")
 
           output_file = os.path.join(output_dir, filename)
 
