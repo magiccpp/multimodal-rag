@@ -4,6 +4,7 @@
 
 
 import os
+import shutil
 from langchain_openai import AzureOpenAIEmbeddings
 from langchain_community.document_loaders import TextLoader
 from langchain_chroma import Chroma
@@ -33,6 +34,7 @@ def add_docs_if_not_exists(docs, db):
 
 def main():
     # Set up argument parser
+    rebuild = True
     parser = argparse.ArgumentParser(description='Process specified files and save them to an output directory.')
     
     # Add the output directory
@@ -42,16 +44,29 @@ def main():
     # Add the list of input files, separated by commas
     parser.add_argument('-f', '--files', type=str, required=True,
                         help='Comma-separated list of file paths to process')
+
+    # Add the rebuild argument
+    parser.add_argument('-r', '--rebuild', type=lambda x: (str(x).lower() == 'true'), default=True,
+                        help='Rebuild the vector database from scratch (default: True)')
+    
     
     # Parse the command-line arguments
     args = parser.parse_args()
-
-    if args.output_dir is None:
+    output_dir = args.output_dir
+    if output_dir is None:
       print("Error: Output directory not specified")
       return
     
 
-    output_dir = args.output_dir
+    # If rebuild is true, delete the existing database
+    if args.rebuild and os.path.exists(output_dir):
+        print("Rebuilding database: Deleting existing data...")
+        shutil.rmtree(output_dir)
+
+    
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
     embeddings = AzureOpenAIEmbeddings(
         azure_deployment="AA-text-embedding-3-large",
         openai_api_version="2024-02-01",
@@ -59,9 +74,9 @@ def main():
 
     # if output dir exists, try to load the database
     db = None
-    if os.path.exists(output_dir):
-      db = Chroma(persist_directory=output_dir, embedding_function=embeddings)  # Load from storage
-      print("Database loaded successfully")
+
+    db = Chroma(persist_directory=output_dir, embedding_function=embeddings)  # Load from storage
+    print("Database loaded successfully")
 
     # Parse the command-line arguments
     args = parser.parse_args()

@@ -1,0 +1,509 @@
+[
+  {
+    "type": "image",
+    "img_path": "images/859d888e5fa1d7dd8562e67ffb01a2a52c0f2d078f54c4848bdfad1bb0425303.jpg",
+    "img_caption": [
+      "Fig. 1.1 Comparison of grain flow "
+    ],
+    "img_footnote": [],
+    "page_idx": 3,
+    "ref": "Fig. 1.1",
+    "description": "Comparison of grain flow"
+  },
+  {
+    "type": "image",
+    "img_path": "images/61440d28215e2ddbb03827b4cd01580a11d2b916c1a05d2a84ff56ac9f0c3346.jpg",
+    "img_caption": [
+      "Fig. 1.2 Typical metal working processes "
+    ],
+    "img_footnote": [],
+    "page_idx": 5,
+    "ref": "Fig. 1.2",
+    "description": "Typical metal working processes"
+  },
+  {
+    "type": "image",
+    "img_path": "images/16ac90e7656b74da622102dac2d39b9d96a266eee913dcd7ee91e3fbbc85eda0.jpg",
+    "img_caption": [
+      "Fig. 2.1 Tools used in smithy and smith's forge "
+    ],
+    "img_footnote": [],
+    "page_idx": 8,
+    "ref": "Fig. 2.1",
+    "description": "Tools used in smithy and smith's forge"
+  },
+  {
+    "type": "image",
+    "img_path": "images/9680b1a466ecd9315587eacd9c7581dafd0127827aaec9f849d1dafec395b681.jpg",
+    "img_caption": [
+      "(a) Job placed on anvil and punched half-way on one side (b) Job turned upside down, being punched through using a bolster (c) Job turned upside down, being punched through using Pritchel hole (o) Operation of drifting "
+    ],
+    "img_footnote": [],
+    "page_idx": 10,
+    "description": "(a) Job placed on anvil and punched half-way on one side (b) Job turned upside down, being punched through using a bolster (c) Job turned upside down, being punched through using Pritchel hole (o) Operation of drifting "
+  },
+  {
+    "type": "image",
+    "img_path": "images/b30593e69daab9946315d21e7cc59692f5fe9a20bad0c442da7f97027f60174f.jpg",
+    "img_caption": [
+      "Fig. 2.2 Some common hand forging operations ",
+      "Fig. 2.3 Welded joints and end preparations "
+    ],
+    "img_footnote": [],
+    "page_idx": 10,
+    "ref": "Fig. 2.3",
+    "description": "Welded joints and end preparations"
+  },
+  {
+    "type": "image",
+    "img_path": "images/487c0f24b6434596066dea23cdcddb480a9d63b53e77997a4e59b278dacc5a8b.jpg",
+    "img_caption": [
+      "Fig. 2.4 A spring hammer "
+    ],
+    "img_footnote": [],
+    "page_idx": 11,
+    "ref": "Fig. 2.4",
+    "description": "A spring hammer"
+  },
+  {
+    "type": "image",
+    "img_path": "images/ce82a2f40ab5078e0e0b00aaae4bd5d4145389672cec70b455f3da0f0d7c47f8.jpg",
+    "img_caption": [
+      "Fig. 2.5 Pneumatic power hammer "
+    ],
+    "img_footnote": [],
+    "page_idx": 12,
+    "ref": "Fig. 2.5",
+    "description": "Pneumatic power hammer"
+  },
+  {
+    "type": "image",
+    "img_path": "images/a4b97e65974bca3e694dc7af6c1a26e3212e467160219aa153b3c2cbfbe8ef27.jpg",
+    "img_caption": [
+      "Fig. 2.6 Open dies "
+    ],
+    "img_footnote": [],
+    "page_idx": 13,
+    "ref": "Fig. 2.6",
+    "description": "Open dies"
+  },
+  {
+    "type": "image",
+    "img_path": "images/1de8bb485638e341a09fdae5fbb4ec18abb2994a4c0466d0b2af0366f9312ad7.jpg",
+    "img_caption": [
+      "Fig. 2.7 Upsetting with open dies "
+    ],
+    "img_footnote": [],
+    "page_idx": 14,
+    "ref": "Fig. 2.7",
+    "description": "Upsetting with open dies"
+  },
+  {
+    "type": "image",
+    "img_path": "images/f50ff72a6499f3ad058be45968d551e7bc36b53705a18eb159f0a58cdbc3f556.jpg",
+    "img_caption": [
+      "Fig. 2.8 Upset forging on machine "
+    ],
+    "img_footnote": [],
+    "page_idx": 16,
+    "ref": "Fig. 2.8",
+    "description": "Upset forging on machine"
+  },
+  {
+    "type": "image",
+    "img_path": "images/d201b537b01428e07bfe8ec9bb09ca41bcf00b4a58f6a2143777be3f9d31d0e7.jpg",
+    "img_caption": [
+      "Fig. 3.1 Rolling Process "
+    ],
+    "img_footnote": [],
+    "page_idx": 18,
+    "ref": "Fig. 3.1",
+    "description": "Rolling Process"
+  },
+  {
+    "type": "image",
+    "img_path": "images/99b6a0956e58101f8996d63e6e77d98210088b3030aebda1e65aa78889945af6.jpg",
+    "img_caption": [
+      "Fig. 3.2 Rolling process "
+    ],
+    "img_footnote": [],
+    "page_idx": 20,
+    "ref": "Fig. 3.2",
+    "description": "Rolling process"
+  },
+  {
+    "type": "image",
+    "img_path": "images/0db48215c83d287b45ebcd0c73dd1515da789375abd035d5849db498ec2f2715.jpg",
+    "img_caption": [
+      "Fig. 3.3 Rolling mill types "
+    ],
+    "img_footnote": [],
+    "page_idx": 22,
+    "ref": "Fig. 3.3",
+    "description": "Rolling mill types"
+  },
+  {
+    "type": "image",
+    "img_path": "images/38c4c8688b576a6784ea439c00f7caf253936ebbf88be83d72400f576bc57265.jpg",
+    "img_caption": [
+      "Fig. 3.4 Four high mil "
+    ],
+    "img_footnote": [],
+    "page_idx": 23,
+    "ref": "Fig. 3.4",
+    "description": "Four high mil"
+  },
+  {
+    "type": "image",
+    "img_path": "images/f80a252fae1fbd092178c7a13d18a889848c6c2fb3aea1e8041092554a4dd3c8.jpg",
+    "img_caption": [
+      "Fig. 3.5 Types of rolls "
+    ],
+    "img_footnote": [],
+    "page_idx": 23,
+    "ref": "Fig. 3.5",
+    "description": "Types of rolls"
+  },
+  {
+    "type": "image",
+    "img_path": "images/40051cf7f9c5a79c95e16e8ca04c819120fffd98a984072d2f751565c9890ae6.jpg",
+    "img_caption": [
+      "Fig. 3.6 Various stages of rolling and number of passes for converting a steel billet into a round bar "
+    ],
+    "img_footnote": [],
+    "page_idx": 24,
+    "ref": "Fig. 3.6",
+    "description": "Various stages of rolling and number of passes for converting a steel billet into a round bar"
+  },
+  {
+    "type": "image",
+    "img_path": "images/b1c29f64778a5877baec5f833ab86283a7a8329a2483367604a2e994bbb15448.jpg",
+    "img_caption": [
+      "Fig. 3.7 Ring rolling "
+    ],
+    "img_footnote": [],
+    "page_idx": 25,
+    "ref": "Fig. 3.7",
+    "description": "Ring rolling"
+  },
+  {
+    "type": "image",
+    "img_path": "images/d15b01464101a620ded643932f87977cc82e28ba94e632d7538d7738437cd89d.jpg",
+    "img_caption": [
+      "Fig. 3.8 Effect of both cold working and hot working on themicrostructureofmetals "
+    ],
+    "img_footnote": [],
+    "page_idx": 26,
+    "ref": "Fig. 3.8",
+    "description": "Effect of both cold working and hot working on themicrostructureofmetals"
+  },
+  {
+    "type": "image",
+    "img_path": "images/e85c17ba8de317019ec2c72f52a3433ec615d9b46005a40de18291950ff2d697.jpg",
+    "img_caption": [
+      "Fig. 3.9 Rolling defects "
+    ],
+    "img_footnote": [],
+    "page_idx": 27,
+    "ref": "Fig. 3.9",
+    "description": "Rolling defects"
+  },
+  {
+    "type": "image",
+    "img_path": "images/a72ceb2fc306ababeff378b208e6e2accd762ff47eebc5292bcb6dda6f4605cd.jpg",
+    "img_caption": [
+      "Fig. 3.10 Rolling defect "
+    ],
+    "img_footnote": [],
+    "page_idx": 28,
+    "ref": "Fig. 3.10",
+    "description": "Rolling defect"
+  },
+  {
+    "type": "image",
+    "img_path": "images/6149d0a82b2931961ca51bac2159f3a3c9840affc7e79c462f0f7f81154af4eb.jpg",
+    "img_caption": [
+      "Fig. 3.11 Rolling defect (alligatoring) "
+    ],
+    "img_footnote": [],
+    "page_idx": 28,
+    "ref": "Fig. 3.11",
+    "description": "Rolling defect (alligatoring)"
+  },
+  {
+    "type": "image",
+    "img_path": "images/ef22a6e745e0820aa7e24453f3a0f20a908c8add7d003943159817483e6c5355.jpg",
+    "img_caption": [
+      "Fig. 4.1 Type of extrusions "
+    ],
+    "img_footnote": [],
+    "page_idx": 30,
+    "ref": "Fig. 4.1",
+    "description": "Type of extrusions"
+  },
+  {
+    "type": "image",
+    "img_path": "images/0f47c98c68e06183d6185f7697667ac32c22274e59d841c8ce3e06fd720bab6d.jpg",
+    "img_caption": [
+      "Fig. 4.2 Forward or direct extrusion "
+    ],
+    "img_footnote": [],
+    "page_idx": 31,
+    "ref": "Fig. 4.2",
+    "description": "Forward or direct extrusion"
+  },
+  {
+    "type": "image",
+    "img_path": "images/308911540929e6e8de6d26d7864fcfff36714bd1b73a35021b62877f6d828d7f.jpg",
+    "img_caption": [
+      "Fig. 4.3 Backward or indirect extrusion "
+    ],
+    "img_footnote": [],
+    "page_idx": 32,
+    "ref": "Fig. 4.3",
+    "description": "Backward or indirect extrusion"
+  },
+  {
+    "type": "image",
+    "img_path": "images/3eaef65475959639dcf69800c57e333ec4d6a32b3f80558a2d586bf365804a93.jpg",
+    "img_caption": [
+      "Fig. 4.4 Hooker extrusion "
+    ],
+    "img_footnote": [],
+    "page_idx": 33,
+    "ref": "Fig. 4.4",
+    "description": "Hooker extrusion"
+  },
+  {
+    "type": "image",
+    "img_path": "images/54a04867867e4cd2abaa69501cf612957e2ffc2baf0c85108f99dfeb3c438242.jpg",
+    "img_caption": [
+      "Fig. 4.5 Impact extrusion "
+    ],
+    "img_footnote": [],
+    "page_idx": 34,
+    "ref": "Fig. 4.5",
+    "description": "Impact extrusion"
+  },
+  {
+    "type": "image",
+    "img_path": "images/d63d808c6ad047b723da03a6dd6a7afe7544f3262748880e86dd4b9165ace6c3.jpg",
+    "img_caption": [
+      "Fig. 4.6 Cold extrusion forging "
+    ],
+    "img_footnote": [],
+    "page_idx": 34,
+    "ref": "Fig. 4.6",
+    "description": "Cold extrusion forging"
+  },
+  {
+    "type": "image",
+    "img_path": "images/6759cd083632c8447f050916c2b1d0d8a3ec1b938aafd50c99cf8364a92c85d3.jpg",
+    "img_caption": [
+      "Fig. 4.7 Wire drawing process "
+    ],
+    "img_footnote": [],
+    "page_idx": 36,
+    "ref": "Fig. 4.7",
+    "description": "Wire drawing process"
+  },
+  {
+    "type": "image",
+    "img_path": "images/410a8d10a6cbcc4488c18f6e7f5973ae1fdcf78faf396ecb851fa6ec666e062e.jpg",
+    "img_caption": [
+      "\u00b7Method (a) is most commonly used. \u00b7 Method (b) uses a floating mandrel which adjusts itself to the correct position because of its stepped contour. ",
+      "Fig. 4.8 Tube drawing "
+    ],
+    "img_footnote": [],
+    "page_idx": 37,
+    "description": "Tube drawing",
+    "ref": "Fig. 4.8"
+  },
+  {
+    "type": "image",
+    "img_path": "images/35a0ade87a4b1cb24b63047f13e079f233d89804c6ccdda2e0c8c3e5bda58154.jpg",
+    "img_caption": [
+      "Fig. 4.9 Tube making "
+    ],
+    "img_footnote": [],
+    "page_idx": 37,
+    "ref": "Fig. 4.9",
+    "description": "Tube making"
+  },
+  {
+    "type": "image",
+    "img_path": "images/6008bb3b6fcab45813f30e9ec2f46d35ecc14d173f4be6602aaf45870bd71b25.jpg",
+    "img_caption": [
+      "Fig. 5.1 Standard die set with a punch and die mounted in place "
+    ],
+    "img_footnote": [],
+    "page_idx": 40,
+    "ref": "Fig. 5.1",
+    "description": "Standard die set with a punch and die mounted in place"
+  },
+  {
+    "type": "image",
+    "img_path": "images/00ba28c1f44cff65059753d1c02a96997a90839db1d2cbf74372d3be5141a84d.jpg",
+    "img_caption": [
+      "Fig. 5.2 "
+    ],
+    "img_footnote": [],
+    "page_idx": 40,
+    "ref": "Fig. 5.2",
+    "description": ""
+  },
+  {
+    "type": "image",
+    "img_path": "images/795cf9166f6932f2693cc98cc86a99ba22a06af39abec4c89ac8eea0cc9cd836.jpg",
+    "img_caption": [
+      "Fig. 5.3 Types of bending dies "
+    ],
+    "img_footnote": [],
+    "page_idx": 41,
+    "ref": "Fig. 5.3",
+    "description": "Types of bending dies"
+  },
+  {
+    "type": "image",
+    "img_path": "images/b0e69b6957af359ba482d3715082d1e3b1f2f36115ffe7fb3ebb4eae1eb27734.jpg",
+    "img_caption": [
+      "Fig. 5.4 Deep drawing operation "
+    ],
+    "img_footnote": [],
+    "page_idx": 42,
+    "ref": "Fig. 5.4",
+    "description": "Deep drawing operation"
+  },
+  {
+    "type": "image",
+    "img_path": "images/97179aa90469c5779a19824be2cb3a16b79fd9124d591f0318892bb093619109.jpg",
+    "img_caption": [
+      "Fig. 5.5 Coining and embossing operations "
+    ],
+    "img_footnote": [],
+    "page_idx": 43,
+    "ref": "Fig. 5.5",
+    "description": "Coining and embossing operations"
+  },
+  {
+    "type": "image",
+    "img_path": "images/7e8dad44add0ed31cbf98fd00464dcd34e51c4940b6cb75e895aacc489624011.jpg",
+    "img_caption": [
+      "Fig. 5.6 Guillotine shear "
+    ],
+    "img_footnote": [],
+    "page_idx": 44,
+    "ref": "Fig. 5.6",
+    "description": "Guillotine shear"
+  },
+  {
+    "type": "image",
+    "img_path": "images/b60f63a63735cff758ec846b71d63beeb4d13535cb5921af5ea2e261ba16f21c.jpg",
+    "img_caption": [
+      "Fig. 6.1 "
+    ],
+    "img_footnote": [],
+    "page_idx": 48,
+    "ref": "Fig. 6.1",
+    "description": ""
+  },
+  {
+    "type": "image",
+    "img_path": "images/0b4949254cac086150f2a88c40b6abcb934177868c7e4ebce2b766676b03d860.jpg",
+    "img_caption": [
+      "Fig. 6.2 "
+    ],
+    "img_footnote": [],
+    "page_idx": 48,
+    "ref": "Fig. 6.2",
+    "description": ""
+  },
+  {
+    "type": "image",
+    "img_path": "images/7c069a353a0d7ad7dc83687ca991c9b528a6e3b56d1d3b4767fe747d8951894a.jpg",
+    "img_caption": [
+      "Fig. 6.3 "
+    ],
+    "img_footnote": [],
+    "page_idx": 49,
+    "ref": "Fig. 6.3",
+    "description": ""
+  },
+  {
+    "type": "image",
+    "img_path": "images/2adc40c4234ca39e86f62780e095f18ba1cf2e75d473135e30c648dd2f9a0369.jpg",
+    "img_caption": [
+      "Fig. 6.4 A mould ready for pouring "
+    ],
+    "img_footnote": [],
+    "page_idx": 52,
+    "ref": "Fig. 6.4",
+    "description": "A mould ready for pouring"
+  },
+  {
+    "type": "image",
+    "img_path": "images/30b8fcca3af9187c9196282d0f91b9bbb445438883415677c8c7353bc774d812.jpg",
+    "img_caption": [
+      "Fig. 6.5 "
+    ],
+    "img_footnote": [],
+    "page_idx": 53,
+    "ref": "Fig. 6.5",
+    "description": ""
+  },
+  {
+    "type": "image",
+    "img_path": "images/2105ed2d0bb1cf84c66a2c88bea0fc87156fd75963c130f955dc1d7931b75c21.jpg",
+    "img_caption": [
+      "Fig. 6.6 Gating system "
+    ],
+    "img_footnote": [],
+    "page_idx": 53,
+    "ref": "Fig. 6.6",
+    "description": "Gating system"
+  },
+  {
+    "type": "image",
+    "img_path": "images/a6338573a070da8d0e2d21a4ecb7aaeb722980cd14e42c047f189fce799eacea.jpg",
+    "img_caption": [
+      "Fig. 6.7 Cupola "
+    ],
+    "img_footnote": [],
+    "page_idx": 54,
+    "ref": "Fig. 6.7",
+    "description": "Cupola"
+  },
+  {
+    "type": "image",
+    "img_path": "images/e494ac8f2b11e9e008565125add0c3ac36360649105835300170a2a3f3b326d6.jpg",
+    "img_caption": [
+      "Fig. 6.8 "
+    ],
+    "img_footnote": [],
+    "page_idx": 56,
+    "ref": "Fig. 6.8",
+    "description": ""
+  },
+  {
+    "type": "table",
+    "img_path": "images/4ffa127a39220cb54c358c4b489d332584414d0a9ab8c3b6fa142448d34fc3dd.jpg",
+    "table_caption": [
+      "Table 4.1 "
+    ],
+    "table_footnote": [],
+    "page_idx": 33,
+    "ref": "Table 4.1",
+    "description": ""
+  },
+  {
+    "type": "table",
+    "img_path": "images/0a4e41f36f016efef005747947ded35276cd4703c1f1ec4f65f52376d6a5202e.jpg",
+    "table_caption": [
+      "Table 4.2 "
+    ],
+    "table_footnote": [],
+    "page_idx": 35,
+    "ref": "Table 4.2",
+    "description": ""
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "type": "image",
+    "img_path": "images/deb6c02bbbc1c446ac50666bb369645f4c4699f5c6a1cec1f66ed284b287abfa.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "images/d5f7764788f85cb4e9d5f4f48d7be2de31d0c734f1ac684408ce5689debf6964.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 0
+  },
+  {
+    "type": "image",
+    "img_path": "images/27ed679087f4715d3590e3d062d83e3049561e07110c05316a11ddccb15c6715.jpg",
+    "img_caption": [
+      "Fig. 1.1 Stress-strain curve for ductile material "
+    ],
+    "img_footnote": [],
+    "page_idx": 18,
+    "ref": "Fig. 1.1",
+    "description": "Stress-strain curve for ductile material"
+  },
+  {
+    "type": "image",
+    "img_path": "images/ef0205e9d317792b34dba25d85f6a434884590b3d5a6eac8ee68f28d8c94ee6c.jpg",
+    "img_caption": [
+      "Note: Gauge, shoulder and overall lengths according to IS : 210-1978. ",
+      "Fig. 1.2 Dimensions of a standard tensile test-piece "
+    ],
+    "img_footnote": [],
+    "page_idx": 19,
+    "description": "Dimensions of a standard tensile test-piece",
+    "ref": "Fig. 1.2"
+  },
+  {
+    "type": "image",
+    "img_path": "images/29d764321a051b3ba1dc8b4f0a7071b1f23abb6fbf677defa9c25ef14aa6a902.jpg",
+    "img_caption": [
+      "Fig. 1.3 Stress-strain curve for brittle material "
+    ],
+    "img_footnote": [],
+    "page_idx": 19,
+    "ref": "Fig. 1.3",
+    "description": "Stress-strain curve for brittle material"
+  },
+  {
+    "type": "image",
+    "img_path": "images/ebafa765501d973566b4e175140198d0854fb7722d2c10fecb32f1779d45d085.jpg",
+    "img_caption": [
+      "Fig. 1.4 (a) IZOD test specimen "
+    ],
+    "img_footnote": [],
+    "page_idx": 21,
+    "ref": "Fig. 1.4 (a)",
+    "description": "IZOD test specimen"
+  },
+  {
+    "type": "image",
+    "img_path": "images/afc44a1e62cb5eee8eec44366cf8c3b5e789418d5c05d1c4a142ac2ab0335765.jpg",
+    "img_caption": [
+      "Fig. 1.4 (b) Specimen fixed in IZOD testing machine "
+    ],
+    "img_footnote": [],
+    "page_idx": 21,
+    "ref": "Fig. 1.4 (b)",
+    "description": "Specimen fixed in IZOD testing machine"
+  },
+  {
+    "type": "image",
+    "img_path": "images/116c0d6ebcb929df9cce34d54c85b876585066e9fcb89cff7bb8ad0940d49efb.jpg",
+    "img_caption": [
+      "Fig. 2.1 Microstructure, mechanical properties, and uses of plain carbon steels "
+    ],
+    "img_footnote": [],
+    "page_idx": 27,
+    "ref": "Fig. 2.1",
+    "description": "Microstructure, mechanical properties, and uses of plain carbon steels"
+  },
+  {
+    "type": "table",
+    "img_path": "images/77752325b37fca96e9566d52a5ffd6e4bf263bbf2119392810a62c4296efe3da.jpg",
+    "table_caption": [
+      "Table 1.1 "
+    ],
+    "table_footnote": [],
+    "page_idx": 22,
+    "ref": "Table 1.1",
+    "description": ""
+  },
+  {
+    "type": "table",
+    "img_path": "images/bf7323f0ad7886a60cd8b197b9ff34ab566239ec183aab27285e3270be3ebaf5.jpg",
+    "table_caption": [
+      "Table 2.1 "
+    ],
+    "table_footnote": [],
+    "page_idx": 31,
+    "ref": "Table 2.1",
+    "description": ""
+  },
+  {
+    "type": "table",
+    "img_path": "images/464934ab2ce0b04dfba26350a325df37dacfea69b1e6ed6bb18c113a25ddce59.jpg",
+    "table_caption": [
+      "Table 3.1 ",
+      "Note: For comparison, tensile strength of Iron is $270\\;\\mathrm{N/mm}^{2}$ "
+    ],
+    "table_footnote": [],
+    "page_idx": 34,
+    "ref": "Table 3.1",
+    "description": "Note: For comparison, tensile strength of Iron is $270\\;\\mathrm{N/mm}^{2}$ "
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "type": "image",
+    "img_path": "images/24b3cfbb812df4f40eff7357b4132d1a99d8e0bc576aa23e4ea2879982473ac2.jpg",
+    "img_caption": [
+      "Fig. 1.1 Centre lathe "
+    ],
+    "img_footnote": [],
+    "page_idx": 3,
+    "ref": "Fig. 1.1",
+    "description": "Centre lathe"
+  },
+  {
+    "type": "image",
+    "img_path": "images/30f12247a8fcd5f695cfe83c92e942405b82a799c0d266cf9f5f35c9dd232158.jpg",
+    "img_caption": [
+      "Fig. 1.2 Tailstock "
+    ],
+    "img_footnote": [],
+    "page_idx": 4,
+    "ref": "Fig. 1.2",
+    "description": "Tailstock"
+  },
+  {
+    "type": "image",
+    "img_path": "images/67d70527fe8a926787bd7b6a9d182c4818de278d4640bbaccc25a40bcac7b742.jpg",
+    "img_caption": [
+      "L Hand traversing wheel ",
+      "Fig. 1.3 Carriage "
+    ],
+    "img_footnote": [],
+    "page_idx": 5,
+    "description": "Carriage",
+    "ref": "Fig. 1.3"
+  },
+  {
+    "type": "image",
+    "img_path": "images/2118188507b1e4db2e4025d6e2c3f9d993841dd6a1614d5c45ab684f11fc05d6.jpg",
+    "img_caption": [
+      "Fig. 1.4 Right hand lathe tools "
+    ],
+    "img_footnote": [],
+    "page_idx": 6,
+    "ref": "Fig. 1.4",
+    "description": "Right hand lathe tools"
+  },
+  {
+    "type": "image",
+    "img_path": "images/3dc744057f373dfe8737d972ca58bc81858bb9f748ffd87e2a7b2076ca6b44e9.jpg",
+    "img_caption": [
+      "Fig. 1.5 Turning operation "
+    ],
+    "img_footnote": [],
+    "page_idx": 7,
+    "ref": "Fig. 1.5",
+    "description": "Turning operation"
+  },
+  {
+    "type": "image",
+    "img_path": "images/8ea67fcda518eca317e94688d65d24301552dcc338d9456db59e9e82c38e9b32.jpg",
+    "img_caption": [
+      "Fig. 1.6 Taper turning calculation "
+    ],
+    "img_footnote": [],
+    "page_idx": 7,
+    "ref": "Fig. 1.6",
+    "description": "Taper turning calculation"
+  },
+  {
+    "type": "image",
+    "img_path": "images/395ccc2f1bd9ea613c0ac099a065a354c19d4df8df4048cff02fd27dae252128.jpg",
+    "img_caption": [
+      "Fig. 1.7 Offsetting tailstock "
+    ],
+    "img_footnote": [],
+    "page_idx": 8,
+    "ref": "Fig. 1.7",
+    "description": "Offsetting tailstock"
+  },
+  {
+    "type": "image",
+    "img_path": "images/9f0bea57c43f4a7211253c89f9e7e56a5fdb553ead6b2f70f8650dae729a266b.jpg",
+    "img_caption": [
+      "Fig. 1.8 Taper by form tool "
+    ],
+    "img_footnote": [],
+    "page_idx": 9,
+    "ref": "Fig. 1.8",
+    "description": "Taper by form tool"
+  },
+  {
+    "type": "image",
+    "img_path": "images/adcd1d5d8f5191fd69a131293035963af1088c8972d1ec84792e795523fc0ad6.jpg",
+    "img_caption": [
+      "Fig. 1.9 Boring "
+    ],
+    "img_footnote": [],
+    "page_idx": 10,
+    "ref": "Fig. 1.9",
+    "description": "Boring"
+  },
+  {
+    "type": "image",
+    "img_path": "images/e67486e22757d5a48fb3a4c490d3a0953b87cae634affcfc0bd890b0fdd6e0da.jpg",
+    "img_caption": [
+      "Fig. 2.1 Principal parts of a shaper "
+    ],
+    "img_footnote": [],
+    "page_idx": 11,
+    "ref": "Fig. 2.1",
+    "description": "Principal parts of a shaper"
+  },
+  {
+    "type": "image",
+    "img_path": "images/c8572572357a6cb4147893ffd8493d7c150e7fdbe4f019fca644fdc6366b8dc8.jpg",
+    "img_caption": [
+      "Fig. 2.2 Quick return mechanism "
+    ],
+    "img_footnote": [],
+    "page_idx": 12,
+    "ref": "Fig. 2.2",
+    "description": "Quick return mechanism"
+  },
+  {
+    "type": "image",
+    "img_path": "images/8b4d4ca87e7dc55a5f228e40d942c5a72f66aa23e585400856a6ad8d944fdba3.jpg",
+    "img_caption": [
+      "Fig. 2.3 Cuting tools used in shaping work "
+    ],
+    "img_footnote": [],
+    "page_idx": 13,
+    "ref": "Fig. 2.3",
+    "description": "Cuting tools used in shaping work"
+  },
+  {
+    "type": "image",
+    "img_path": "images/15400970f77067143a9554439124accbe45a09aa9517010068602963e07e3b8c.jpg",
+    "img_caption": [
+      "Fig. 2.4 Various operations performed on a shaping machine "
+    ],
+    "img_footnote": [],
+    "page_idx": 14,
+    "ref": "Fig. 2.4",
+    "description": "Various operations performed on a shaping machine"
+  },
+  {
+    "type": "image",
+    "img_path": "images/4177bdf513037059cc58ea735238231f6caa31949987d0617fd0e2cd6fd4c06b.jpg",
+    "img_caption": [
+      "Fig. 2.5 Schematic diagram of a planer "
+    ],
+    "img_footnote": [],
+    "page_idx": 15,
+    "ref": "Fig. 2.5",
+    "description": "Schematic diagram of a planer"
+  },
+  {
+    "type": "image",
+    "img_path": "images/2dd5cb54bafad82619a667d4e6ef53c03f9f9212e05551256c4e9a91f7d47235.jpg",
+    "img_caption": [
+      "Fig. 2.6 Components manufactured by planning/shaping processes "
+    ],
+    "img_footnote": [],
+    "page_idx": 16,
+    "ref": "Fig. 2.6",
+    "description": "Components manufactured by planning/shaping processes"
+  },
+  {
+    "type": "image",
+    "img_path": "images/16607da99585c29d2f820a788dd4c4859081f9568f53432830b9bf76cd4a8440.jpg",
+    "img_caption": [
+      "Fig. 3.1 Drilling of a hole "
+    ],
+    "img_footnote": [],
+    "page_idx": 17,
+    "ref": "Fig. 3.1",
+    "description": "Drilling of a hole"
+  },
+  {
+    "type": "image",
+    "img_path": "images/2dff3d1ddc0f49dc6470f90ce92ee04b4a4a38d50b7e6f8a9ceab169cf12e1eb.jpg",
+    "img_caption": [
+      "Fig 3.2 Nomenclature of a standard general-purpose twist dril "
+    ],
+    "img_footnote": [],
+    "page_idx": 18,
+    "description": "Fig 3.2 Nomenclature of a standard general-purpose twist dril "
+  },
+  {
+    "type": "image",
+    "img_path": "images/8e00c1cac6e280ed6fd09b782544f527e052125c49980c5a473942f237e4015c.jpg",
+    "img_caption": [
+      "Fig. 3.3 Sensitive or bench drilling machine "
+    ],
+    "img_footnote": [],
+    "page_idx": 19,
+    "ref": "Fig. 3.3",
+    "description": "Sensitive or bench drilling machine"
+  },
+  {
+    "type": "image",
+    "img_path": "images/a93294a08d9fd0f4b9e92b6738ac1eeb3d66ff6c37b47f2e3b224659b4272a3b.jpg",
+    "img_caption": [
+      "Fig. 3.4 Radial drilling machine "
+    ],
+    "img_footnote": [],
+    "page_idx": 20,
+    "ref": "Fig. 3.4",
+    "description": "Radial drilling machine"
+  },
+  {
+    "type": "image",
+    "img_path": "images/cb8a5cb44d5ab8ecbda372bfba6175ce30371a52fab9feadbba47357bf40a17b.jpg",
+    "img_caption": [
+      "Fig. 3.5 Common operations closely associated with drilling "
+    ],
+    "img_footnote": [],
+    "page_idx": 20,
+    "ref": "Fig. 3.5",
+    "description": "Common operations closely associated with drilling"
+  },
+  {
+    "type": "image",
+    "img_path": "images/5cdfd0992c1a45a310128ab188620cde63ee8747a99c289be0c4c9694aee5d35.jpg",
+    "img_caption": [
+      "Fig. 4.1 Up and down milling processes "
+    ],
+    "img_footnote": [],
+    "page_idx": 23,
+    "ref": "Fig. 4.1",
+    "description": "Up and down milling processes"
+  },
+  {
+    "type": "image",
+    "img_path": "images/03c97bd32e63f21fe630ad724acc65373ed35e0b7692353a75c86bd3ed6ccfd9.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 24
+  },
+  {
+    "type": "image",
+    "img_path": "",
+    "img_caption": [
+      "Fig. 4.2 Peripheral and face milling "
+    ],
+    "img_footnote": [],
+    "page_idx": 24,
+    "ref": "Fig. 4.2",
+    "description": "Peripheral and face milling"
+  },
+  {
+    "type": "image",
+    "img_path": "images/168d8315decc01ef6eb974b60de0af098dd26856fe1516c9da8e9958f2b7d403.jpg",
+    "img_caption": [
+      "Fig. 4.3 Various peripheral milling operations "
+    ],
+    "img_footnote": [],
+    "page_idx": 25,
+    "ref": "Fig. 4.3",
+    "description": "Various peripheral milling operations"
+  },
+  {
+    "type": "image",
+    "img_path": "images/14748eb64cc44613bbac65bb2ffd3c0aa67c88443babeecd8bae0e85b713ea58.jpg",
+    "img_caption": [
+      "Fig. 4.4 Peripheral milling cutters "
+    ],
+    "img_footnote": [],
+    "page_idx": 25,
+    "ref": "Fig. 4.4",
+    "description": "Peripheral milling cutters"
+  },
+  {
+    "type": "image",
+    "img_path": "images/604a0aeb788dca5513aeb28b2aead1ef70d72dbcc5f04fd62d6995110eca4414.jpg",
+    "img_caption": [
+      "Fig. 4.5 Face milling "
+    ],
+    "img_footnote": [],
+    "page_idx": 26,
+    "ref": "Fig. 4.5",
+    "description": "Face milling"
+  },
+  {
+    "type": "image",
+    "img_path": "images/05e043e1adf349095b919948d568ec6be8ed4c69e6ec5c517984d3904d64f2cc.jpg",
+    "img_caption": [
+      "Fig. 4.6 Down and up cut in face milling "
+    ],
+    "img_footnote": [],
+    "page_idx": 26,
+    "ref": "Fig. 4.6",
+    "description": "Down and up cut in face milling"
+  },
+  {
+    "type": "image",
+    "img_path": "images/71361c02ca8f61c1721b192205254dbab608c97872601a7d5f89314232f303b2.jpg",
+    "img_caption": [
+      "Fig. 4.7 Symmetrical vs asymmetrical milling "
+    ],
+    "img_footnote": [],
+    "page_idx": 27,
+    "ref": "Fig. 4.7",
+    "description": "Symmetrical vs asymmetrical milling"
+  },
+  {
+    "type": "image",
+    "img_path": "images/d5128765f2eef1ee3aa2a76965599ab1da9312b0270ca1ec30dd991a47da0f06.jpg",
+    "img_caption": [
+      "Fig. 4.8 Solid carbide end mills (a) short series (b) long series "
+    ],
+    "img_footnote": [],
+    "page_idx": 28,
+    "ref": "Fig. 4.8",
+    "description": "Solid carbide end mills (a) short series (b) long series"
+  },
+  {
+    "type": "image",
+    "img_path": "images/7b6a1e6abb2e8417e99c8b820d249cff36e1608dd45957ecd58acd4c13375368.jpg",
+    "img_caption": [
+      "A. Overarm; B. Arbor supporting bracket; $C.$ Spindle nose; $D_{\\cdot}$ Hand cross feed; E. Hand vertical feed; $\\boldsymbol{F}.$ Speed change levers; G.Feed driving shaft (enclosed); $H.$ Feed change levers; J. Table feed actuating lever; $\\kappa.$ Feed trip; L. Rapid power feed control; M. Hand table feed; N. Starting lever; P. Wheel for moving overarm; R.Feed reversing lever; S. Tube to deliver cutting fluid to reservoir in base. "
+    ],
+    "img_footnote": [],
+    "page_idx": 29,
+    "description": "A. Overarm; B. Arbor supporting bracket; $C.$ Spindle nose; $D_{\\cdot}$ Hand cross feed; E. Hand vertical feed; $\\boldsymbol{F}.$ Speed change levers; G.Feed driving shaft (enclosed); $H.$ Feed change levers; J. Table feed actuating lever; $\\kappa.$ Feed trip; L. Rapid power feed control; M. Hand table feed; N. Starting lever; P. Wheel for moving overarm; R.Feed reversing lever; S. Tube to deliver cutting fluid to reservoir in base. "
+  },
+  {
+    "type": "image",
+    "img_path": "images/bb55556305e2e90e83668e1573d1e2afc57460a782bf162b02e34d4a36a35e5a.jpg",
+    "img_caption": [
+      "Fig. 4.10 Vertical milling machine "
+    ],
+    "img_footnote": [],
+    "page_idx": 30,
+    "ref": "Fig. 4.10",
+    "description": "Vertical milling machine"
+  },
+  {
+    "type": "image",
+    "img_path": "images/2bfa1a36df5402fff8fcfc5a881a3a7122475f38e48b7164a52e680017ebf175.jpg",
+    "img_caption": [
+      "Fig. 5.1 Grinding wheel shapes "
+    ],
+    "img_footnote": [],
+    "page_idx": 33,
+    "ref": "Fig. 5.1",
+    "description": "Grinding wheel shapes"
+  },
+  {
+    "type": "image",
+    "img_path": "images/50c6211ae61c2f6e941682228d48e9c058bc53bd0f132a0388b039a9637c1cff.jpg",
+    "img_caption": [
+      "Fig. 5.2 Block diagram of a plain cylindrical grinder "
+    ],
+    "img_footnote": [],
+    "page_idx": 35,
+    "ref": "Fig. 5.2",
+    "description": "Block diagram of a plain cylindrical grinder"
+  },
+  {
+    "type": "image",
+    "img_path": "images/02171aa87e3319921bf3efbf2e87539cdc8a891f662b2d9d1f63756c007f67fa.jpg",
+    "img_caption": [
+      "Fig. 5.3 Principle of internal grinding "
+    ],
+    "img_footnote": [],
+    "page_idx": 35,
+    "ref": "Fig. 5.3",
+    "description": "Principle of internal grinding"
+  },
+  {
+    "type": "image",
+    "img_path": "images/4ca0bf6682f0b1ec7ddcdd4c60c9141a1dc13fbbf314a1936150969c38e50076.jpg",
+    "img_caption": [
+      "Fig. 5.4 Methods of surface grinding "
+    ],
+    "img_footnote": [],
+    "page_idx": 36,
+    "ref": "Fig. 5.4",
+    "description": "Methods of surface grinding"
+  },
+  {
+    "type": "image",
+    "img_path": "images/9a0a15cb2624297cd5031b427738f16237be37b0913f2f8f9980c4049963ed3c.jpg",
+    "img_caption": [
+      "Fig. 6.1 High pressure welding equipment "
+    ],
+    "img_footnote": [],
+    "page_idx": 40,
+    "ref": "Fig. 6.1",
+    "description": "High pressure welding equipment"
+  },
+  {
+    "type": "image",
+    "img_path": "images/eda448c10b4d38cc82da095a95ed061f4a5402cdf7414ec607982d204c1a705e.jpg",
+    "img_caption": [
+      "Fig. 6.2 Types of oxyacetylene flames "
+    ],
+    "img_footnote": [],
+    "page_idx": 41,
+    "ref": "Fig. 6.2",
+    "description": "Types of oxyacetylene flames"
+  },
+  {
+    "type": "image",
+    "img_path": "images/e8845a17de719772bd2102123c7229234f09383082719a9b7f871547a5df57a4.jpg",
+    "img_caption": [
+      "(e) Tee joint or Fillet joint ",
+      "Fig. 6.3 Different types of joints "
+    ],
+    "img_footnote": [],
+    "page_idx": 42,
+    "description": "Different types of joints",
+    "ref": "Fig. 6.3"
+  },
+  {
+    "type": "image",
+    "img_path": "images/1ff873ae710c77de01305a08cddf254d8b519c91dafa431039a271f46810ca8d.jpg",
+    "img_caption": [
+      "Fig. 6.4 V groove joints "
+    ],
+    "img_footnote": [],
+    "page_idx": 43,
+    "ref": "Fig. 6.4",
+    "description": "V groove joints"
+  },
+  {
+    "type": "image",
+    "img_path": "images/4a204f7cb1e1bfd3da35fa125464a6b1ecc9c4d602c255c55f389a52ba592e4c.jpg",
+    "img_caption": [
+      "Fig. 6.5 Welding techniques "
+    ],
+    "img_footnote": [],
+    "page_idx": 43,
+    "ref": "Fig. 6.5",
+    "description": "Welding techniques"
+  },
+  {
+    "type": "image",
+    "img_path": "images/d43b05e644a07036ee14f52296954422bd9b6e0ea83461c140d84f408f2fcc79.jpg",
+    "img_caption": [
+      "The process of electric arc welding with coated metal electrode is shown in Fig. 6.6. ",
+      "Fig. 6.6 Welding action of a cellulosic-coated stick electrode "
+    ],
+    "img_footnote": [],
+    "page_idx": 45,
+    "description": "Welding action of a cellulosic-coated stick electrode",
+    "ref": "Fig. 6.6"
+  },
+  {
+    "type": "image",
+    "img_path": "images/109aeaee3b020c5d28f03bf6218708ce65a9b3b96d46e9096df16aca4940759c.jpg",
+    "img_caption": [
+      "Fig. 6.7 Spot welding process "
+    ],
+    "img_footnote": [],
+    "page_idx": 48,
+    "ref": "Fig. 6.7",
+    "description": "Spot welding process"
+  },
+  {
+    "type": "image",
+    "img_path": "images/3282564c18b71a5bff97f4d37d5e73ef60d3da02e4116e37d0515f6665f9e6d6.jpg",
+    "img_caption": [
+      "Fig. 6.8 Projection welding "
+    ],
+    "img_footnote": [],
+    "page_idx": 49,
+    "ref": "Fig. 6.8",
+    "description": "Projection welding"
+  },
+  {
+    "type": "image",
+    "img_path": "images/dc7a495e032c3387a26553502fd61a791112e5b3fb00fcf1b8ea96a44fa85941.jpg",
+    "img_caption": [
+      "Fig. 6.9 Butt welding (ERW) "
+    ],
+    "img_footnote": [],
+    "page_idx": 50,
+    "ref": "Fig. 6.9",
+    "description": "Butt welding (ERW)"
+  },
+  {
+    "type": "image",
+    "img_path": "images/d6af0cefdda2ef0193927859cd708fb3b09f18df29df8ecd3a8f7aeb303c2396.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 55
+  },
+  {
+    "type": "image",
+    "img_path": "images/4b6432fb786bd6828feae521f4c683f75b427030c6bf8ef3283a198c33f62329.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 63
+  },
+  {
+    "type": "image",
+    "img_path": "images/91dc11723abed76790c53346e95add11c7a0bbaeb33857a2510d5d9718e9088b.jpg",
+    "img_caption": [
+      "Fig. 1.2 Diagram showing the Direct dependence and the various Indirect dependences (Inverse, Inter and Cross) among Materials, Manufacturing, Technological and SocioeconomicDevelopment "
+    ],
+    "img_footnote": [],
+    "page_idx": 64,
+    "ref": "Fig. 1.2",
+    "description": "Diagram showing the Direct dependence and the various Indirect dependences (Inverse, Inter and Cross) among Materials, Manufacturing, Technological and SocioeconomicDevelopment"
+  },
+  {
+    "type": "image",
+    "img_path": "images/e585c606a2437888f89e9f84754e97f63196012f232636e61d9ff05bfc7776e2.jpg",
+    "img_caption": [
+      "Fig. 3.1 A thermoplastic chain ",
+      "Fig. 3.2 Polythene chain "
+    ],
+    "img_footnote": [],
+    "page_idx": 74,
+    "ref": "Fig. 3.2",
+    "description": "Polythene chain"
+  },
+  {
+    "type": "image",
+    "img_path": "images/529c5adf60f64c2c8464e93ed21ecc648d9d4715cdcb00cf89383275e6ff08aa.jpg",
+    "img_caption": [
+      "Fig. 3.3 Structure of a thermosetting plastic "
+    ],
+    "img_footnote": [],
+    "page_idx": 75,
+    "ref": "Fig. 3.3",
+    "description": "Structure of a thermosetting plastic"
+  },
+  {
+    "type": "image",
+    "img_path": "images/34053cd625fa44d4bcfce37371e2259ccf8ff5cfefd1f567c771f9f42b654f8d.jpg",
+    "img_caption": [
+      "Fig. 3.4 Classification of composites "
+    ],
+    "img_footnote": [],
+    "page_idx": 78,
+    "ref": "Fig. 3.4",
+    "description": "Classification of composites"
+  },
+  {
+    "type": "image",
+    "img_path": "images/7b08aaf346084554512e5db6634b45f10c44a6c92a834683c5eb01817135decc.jpg",
+    "img_caption": [
+      "Fig. 4.1 Injection moulding of plastics "
+    ],
+    "img_footnote": [],
+    "page_idx": 82,
+    "ref": "Fig. 4.1",
+    "description": "Injection moulding of plastics"
+  },
+  {
+    "type": "image",
+    "img_path": "images/e6a080b7cd967baffd31c42076d6e40f05c9b1b3e772c1f6c62f731cb8a28185.jpg",
+    "img_caption": [
+      "Fig. 4.2 Extrusion of plastics "
+    ],
+    "img_footnote": [],
+    "page_idx": 82,
+    "ref": "Fig. 4.2",
+    "description": "Extrusion of plastics"
+  },
+  {
+    "type": "image",
+    "img_path": "images/ef63780a2ea5b98f864c83c62ea2fd1f09ad7de27b39bb4df5a36cb4c5fb48f4.jpg",
+    "img_caption": [
+      "Fig. 4.3 Blow moulding process "
+    ],
+    "img_footnote": [],
+    "page_idx": 83,
+    "ref": "Fig. 4.3",
+    "description": "Blow moulding process"
+  },
+  {
+    "type": "image",
+    "img_path": "images/3f22695c79ddade051ce7ad9692e5cfa2d12d64ef967a24152c2520bf411fefc.jpg",
+    "img_caption": [
+      "Fig. 4.4 Electroplating process "
+    ],
+    "img_footnote": [],
+    "page_idx": 84,
+    "ref": "Fig. 4.4",
+    "description": "Electroplating process"
+  },
+  {
+    "type": "table",
+    "img_path": "images/6fe8e74fba2373eb45ca97f681723724353377f579a0ba9dfedb8ec933cad3e0.jpg",
+    "table_caption": [
+      "Fig. 1.1 Farms and Factories as Job-creator and Generator of wealth (output-input) "
+    ],
+    "table_footnote": [],
+    "page_idx": 63,
+    "description": "Fig. 1.1 Farms and Factories as Job-creator and Generator of wealth (output-input) "
+  }
+]
